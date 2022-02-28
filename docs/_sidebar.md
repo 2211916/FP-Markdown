@@ -1,3 +1,4 @@
 * [Home](./)
 * [Sobre](./sobre.md)
-* [HomeEN](./en)
+* [HomeEN](./en/README.md)
+* [AboutEN](./en/about.md)
